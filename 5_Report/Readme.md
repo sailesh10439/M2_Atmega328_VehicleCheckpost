@@ -29,7 +29,24 @@ Based on the Vehicle checkpost system, we can able to modify the distance to dee
 
 - GND
 
+<h1> Block diagram </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164180311-dea8dcc7-9f56-41cc-a364-363cd9dae8a4.png)
+
+<h1> Circuit </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164168817-8aa18c4b-74b7-49b5-a242-5aad09547a8c.png)
+
+
 <h1> ADVANTAGES: </h1>
 
 - It can store the previous data.
 - Easy to control.
+
+<h1> OUTPUTS: </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164168817-8aa18c4b-74b7-49b5-a242-5aad09547a8c.png)
+
+
+![image](https://user-images.githubusercontent.com/101562643/164169155-2459f4aa-2fd8-4973-9855-75f540293b6b.png)
+
