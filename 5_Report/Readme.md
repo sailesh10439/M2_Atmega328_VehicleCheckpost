@@ -33,7 +33,20 @@ Based on the Vehicle checkpost system, we can able to modify the distance to dee
 
 ![image](https://user-images.githubusercontent.com/101562643/164180311-dea8dcc7-9f56-41cc-a364-363cd9dae8a4.png)
 
-<h1> Circuit </h1>
+<h1> Flowchart </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164411983-91ee7ff0-6ded-450f-81ca-82cffdf295bb.png)
+
+<h1> Data Flow Diagram </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164424548-7641d706-21ba-4de0-902a-95f485d56ada.png)
+
+<h1> State Transition </h1>
+
+![image](https://user-images.githubusercontent.com/101562643/164431542-be82c710-c024-4ebf-aa52-9b39c6dfe3e5.png)
+
+
+<h1> Schematic Diagram </h1>
 
 ![image](https://user-images.githubusercontent.com/101562643/164168817-8aa18c4b-74b7-49b5-a242-5aad09547a8c.png)
 
