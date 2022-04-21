@@ -1,7 +1,7 @@
    <h1> VEHICLE CHECKPOST SYSTEM </h1>
 <h2> ABSTRACT: </h2>
 
-Vehicle Checkpost project, which is used to check weather the vechicles are coming are not. And it can also make a sound when the documents are verified to open a gate. It can store the previous data in database and it reduces the work for human beings. In this project the ultrasonic sensor, dc motor and buzzer is used with the help of <i><b>Atmega328 microcontroller</b></i>. Ultrasonic sensor is used to detect the vehicle. Buzzer is used to make sound to give the signal to open the gate when the documents are verified and DC motor will help to open gate when the buzzer is ON.
+Vehicle Checkpost is a project, which is used to check weather the vechicles are coming are not. And it can also make a sound when the documents are verified to open a gate. It can store the previous data in database and it reduces the work for human beings. In this project the ultrasonic sensor, dc motor and buzzer is used with the help of <i><b>Atmega328 microcontroller</b></i>. Ultrasonic sensor is used to detect the vehicle. Buzzer is used to make sound to give the signal to open the gate when the documents are verified and DC motor will help to open gate when the buzzer is ON.
 
 <h2> OBJECTIVE OF THIS PROJECT: </h2>
 
@@ -36,6 +36,19 @@ Based on the Vehicle checkpost system, we can able to modify the distance to dee
 - 5V Rail
 
 - GND
+
+<h2> HIGH LEVEL REQUIREMENTS: </H2>
+
+
+![image](https://user-images.githubusercontent.com/101562643/164447494-d6ebbbaf-62ea-415e-9b0d-56c795973163.png)
+
+
+<h2> LOW LEVEL REQUIREMENTS: </H2>
+
+
+![image](https://user-images.githubusercontent.com/101562643/164447618-d47e632f-7a61-4008-978c-cc1d05758ecd.png)
+
+
 
 <h2> BLOCK DIAGRAM: </h2>
 
