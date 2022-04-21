@@ -1,0 +1,3 @@
+<h1> Abstract: </h1>
+
+Vehicle Checkpost project, which is used to check weather the vechicles are coming are not. And it can also make a sound when the documents are verified to open a gate. It can store the previous data in database and it reduces the work for human beings. In this project the ultrasonic sensor, dc motor and buzzer is used with the help of <i><b>Atmega328 microcontroller</b></i>. Ultrasonic sensor is used to detect the vehicle. Buzzer is used to make sound to give the signal to open the gate when the documents are verified and DC motor will help to open gate when the buzzer is ON.
