@@ -77,6 +77,12 @@ Based on the Vehicle checkpost system, we can able to modify the distance to dee
 ![image](https://user-images.githubusercontent.com/101562643/164168817-8aa18c4b-74b7-49b5-a242-5aad09547a8c.png)
 
 
+<h2> TESTCASES: </h2>
+
+
+![image](https://user-images.githubusercontent.com/101562643/164449435-941559d7-f4a9-44ba-bec4-8ccfbb55add3.png)
+
+
 <h2> ADVANTAGES: </h2>
 
 - It can store the previous data.
