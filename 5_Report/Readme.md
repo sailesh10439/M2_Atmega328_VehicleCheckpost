@@ -85,8 +85,10 @@ Based on the Vehicle checkpost system, we can able to modify the distance to dee
 
 <h2> ADVANTAGES: </h2>
 
+- Duplication of the vehicle data is avoided.
+- Timely alerts ensure that penalties are avoided.
 - It can store the previous data.
-- Easy to control.
+- Accessing of vehicle documents easy and time saving.
 
 <h2> OUTPUTS: </h2>
 
